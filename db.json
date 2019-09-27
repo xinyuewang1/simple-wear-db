@@ -1,4 +1,3 @@
-[
 {
 DateTime: "2019-09-27T12:00:00+01:00",
 EpochDateTime: 1569582000,
@@ -86,4 +85,3 @@ CloudCover: 70,
 MobileLink: "http://m.accuweather.com/en/ie/dublin/207931/hourly-weather-forecast/207931?day=1&hbhhour=12&lang=en-us",
 Link: "http://www.accuweather.com/en/ie/dublin/207931/hourly-weather-forecast/207931?day=1&hbhhour=12&lang=en-us"
 }
-]
