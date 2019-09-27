@@ -1,0 +1,18 @@
+{
+"DateTime": "2019-09-27T12:00:00+01:00",
+"EpochDateTime": 1569582000,
+"WeatherIcon": 4,
+"IconPhrase": "Intermittent clouds",
+"HasPrecipitation": false,
+"IsDaylight": true,
+"Temperature": {
+"Value": 57,
+"Unit": "F",
+"UnitType": 18
+},
+"RealFeelTemperature": {
+"Value": 54,
+"Unit": "F",
+"UnitType": 18
+}
+}
